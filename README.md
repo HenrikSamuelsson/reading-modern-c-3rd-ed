@@ -14,4 +14,3 @@ Material related to reading the book *Modern C*, written by Jens Gustedt, publis
 The combination of that the book teaches the latest C features and the book being brand new means that not just any old C compiler can be used to work with the material from the book. A recent C compiler is required.
 
 Currently using the compiler gcc.exe (Rev4, Built by MSYS2 project) 13.2.0.
-S
