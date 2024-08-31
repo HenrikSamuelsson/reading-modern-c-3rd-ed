@@ -21,6 +21,6 @@ Besides using a recent compiler there is also a header file `<c23-fallback.h>` p
 
 There are exercises sprinkled throughout the book. These are meant to be done while reading to make you think about what is just being read.
 
-At the time of writing I am reading a Manning early access program (MEAP) of the book labelled as version 4. The exercise numbering in this version is a bit random and confusing. Due to this the chapter number have been added to the exercise identifier in the below list. As an attempt to aid in the tracing of my exercise solutions to the corresponding sections in the book.
+I am reading a Manning early access program (MEAP) of the book known as version 4. The exercise numbering in this version is a bit confusing. Due to this the chapter number have been added to the exercise identifier in the below list, attempting to aid in the tracing of my exercise solutions to the corresponding sections in the book.
 
 [Ch 1 Exs 3 - Try Compilation](exercises/ch-01-exs-03/ch-01-exs-03.md)  
