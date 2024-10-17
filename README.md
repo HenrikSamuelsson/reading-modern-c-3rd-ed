@@ -1,6 +1,12 @@
 # Reading Modern C Third Edition
 
-Material related to reading the book *Modern C*, written by Jens Gustedt, published by Manning in 2024.
+Material related to reading the book *Modern C*, written by Jens Gustedt.
+
+This book comes in different formats and editions. I am reading a pdf version identified as
+
+> Jens Gustedt. Modern C. Manning, In press, 9781617295812. ffhal-02383654v2f
+
+This version of the book is distributed under a [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/4.0/), and can be downloaded for free from [INRIA.HAL.SCIENCE Web Portal](https://inria.hal.science/hal-02383654).
 
 ## Links
 
@@ -21,6 +27,6 @@ Besides using a recent compiler there is also a header file `<c23-fallback.h>` p
 
 There are exercises sprinkled throughout the book. These are meant to be done while reading to make you think about what is just being read.
 
-I am reading a Manning early access program (MEAP) of the book known as version 4. The exercise numbering in this version is a bit confusing. Due to this the chapter number have been added to the exercise identifier in the below list, attempting to aid in the tracing of my exercise solutions to the corresponding sections in the book.
+The exercise numbering is a bit confusing, for example so is the first exercise found called *Exs 3* and not Exs 1 as you might expect. Have below added the chapter number to the exercise identifier, attempting to aid in the tracing of my exercise solutions to the corresponding sections in the book.
 
 [Ch 1 Exs 3 - Try Compilation](exercises/ch-01-exs-03/ch-01-exs-03.md)  

@@ -19,4 +19,4 @@ PS > gcc -std=c2x -Wall -lm -o getting-started getting-started.c
 PS >
 ```
 
-There was no warnings and an runnable executable was produced. Meaning that I will be going forward using `gcc` to compile when working hands on with content from the book.
+There were no warnings, and an runnable executable was produced. I will be going forward using `gcc` when working hands on with content from the book.
