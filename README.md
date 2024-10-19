@@ -27,7 +27,7 @@ Besides using a recent compiler there is also a header file `<c23-fallback.h>` p
 
 ## Exercises
 
-There are exercises sprinkled throughout the book. These are meant to be done while reading to make you think about what is just being read.
+There are exercises sprinkled throughout the book. These are meant to be done while reading, to make you think about what is just being read.
 
 The exercise numbering is a bit confusing, for example so is the first exercise found called *Exs 3* and not Exs 1 as you might expect. Have below added the chapter number to the exercise identifier, attempting to aid in the tracing of my exercise solutions to the corresponding sections in the book.
 
