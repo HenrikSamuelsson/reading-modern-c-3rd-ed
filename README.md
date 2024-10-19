@@ -14,7 +14,7 @@ A paper version of the book is coming, but this have at the time of writing, not
 
 [The authors page about the book](https://gustedt.gitlabpages.inria.fr/modern-c/)  
 [The publishers page about the book](https://www.manning.com/books/modern-c-third-edition)  
-[Code samples for the book](https://inria.hal.science/hal-03345464/document)  
+[Code samples for the book](https://inria.hal.science/hal-03345464)  
 [The authors blog](https://gustedt.wordpress.com/)  
 
 ## Compiler
