@@ -8,6 +8,8 @@ This book comes in different formats and editions. I am reading a pdf version id
 
 This version of the book is distributed under a [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/4.0/), and can be downloaded for free from [INRIA.HAL.SCIENCE Web Portal](https://inria.hal.science/hal-02383654).
 
+A paper version of the book is coming, but this have at the time of writing, not yet been released.
+
 ## Links
 
 [The authors page about the book](https://gustedt.gitlabpages.inria.fr/modern-c/)  
