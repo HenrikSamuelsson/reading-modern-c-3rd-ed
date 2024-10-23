@@ -22,7 +22,6 @@ It is fully possible to have a mixed project that is a based source files with b
 
 > Don't panic.
 
-This takeaway is a reference to the *The Hitchhiker's Guide to the Galaxy* a fictional guide book that has these words printed on its cover. The guide comes from the multimedia series with the same name by Douglas Adams where it is described as "the standard repository for all knowledge and wisdom".
+This takeaway is a reference to the *The Hitchhiker's Guide to the Galaxy*, a fictional guide book with the words don't panic printed on its cover. This guide book is an element in the multimedia series with the same name by Douglas Adams. It is here described as "the standard repository for all knowledge and wisdom".
 
 In the context of programming in general, and in particular when working with the book Modern C, it is important not to panic. The book is challenging and will require an effort from the reader. Instead of panicking the reader need to work methodically taking advantage of all the material in the book including the exercises and challenges. This will take time so lets put away our smart phones and get working.
- 
