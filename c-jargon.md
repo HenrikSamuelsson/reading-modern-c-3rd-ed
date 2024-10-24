@@ -4,5 +4,8 @@ C comes with its own set vocabulary used to talk about C coding. The book introd
 
 ## J
 
-**jump**  - We do not always want all statements in the code to be executed sequentially line by line. C offers several types of constructs that allows to skip code form being executed, and instead move on directly to other parts of the code. We say that we jump, as in jumping over something. Examples are ``if``/``else``, ``break``, ``continue`` and ``goto``.
+**jump** - We do not always want all statements in the code to be executed sequentially line by line. C offers several types of constructs that allows to skip code form being executed, and instead move on directly to other parts of the code. We say that we jump, as in jumping over something. Examples are ``if``/``else``, ``break``, ``continue`` and ``goto``.
 
+## P
+
+**prints** - When a C program outputs text in a terminal we say that it prints.
