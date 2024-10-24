@@ -5,7 +5,7 @@ C comes with its own set vocabulary used to talk about C coding. The book introd
 ## C
 
 **call**  
-
+A statement that starts the execution of a function.
 
 ## J
 
