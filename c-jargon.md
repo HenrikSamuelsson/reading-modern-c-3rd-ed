@@ -2,6 +2,11 @@
 
 C comes with its own set vocabulary used to talk about C coding. The book introduces terms from this vocabulary. These are here listed in alphabetical order with explanations.
 
+## C
+
+**call**  
+
+
 ## J
 
 **jump**  
