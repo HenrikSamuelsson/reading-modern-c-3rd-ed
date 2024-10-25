@@ -19,7 +19,7 @@ We do not always want all statements in the code to be executed sequentially lin
 
 ## P
 
-**prints**  
+**print**  
 When a C program outputs text, commonly in a terminal window.
 
 ## S
