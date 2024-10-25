@@ -1,6 +1,11 @@
 # C Jargon
 
-C comes with its own set vocabulary used to talk about C coding. The book introduces terms from this vocabulary. These are here listed in alphabetical order with explanations.
+C comes with its own set vocabulary used to talk about C coding. The book introduces terms from this vocabulary. Some of these terms are here listed in alphabetical order with explanations.
+
+## A
+
+**argument**  
+The actual value of an parameter passed along in a function call.
 
 ## C
 
