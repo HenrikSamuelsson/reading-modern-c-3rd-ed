@@ -15,7 +15,7 @@ We do not always want all statements in the code to be executed sequentially lin
 ## P
 
 **prints**  
-When a C program outputs text, such as in a terminal window, we say that it prints.
+When a C program outputs text, commonly in a terminal window.
 
 ## S
 
