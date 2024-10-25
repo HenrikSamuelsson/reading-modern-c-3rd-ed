@@ -20,4 +20,4 @@ When a C program outputs text, commonly in a terminal window.
 ## S
 
 **statement**  
-Part of a C program that forms an instruction for the machine that will execute the program. A complete program will typically contain many statements that are executed one by one.
+Small part of a C program that forms an instruction for the machine, to be executed when the program runs.
