@@ -7,6 +7,11 @@ C comes with its own set vocabulary used to talk about C coding. The book introd
 **call**  
 A statement that starts the execution of a function.
 
+## F
+
+**function**  
+A building block of code that runs when called from other code. Benefit being that code can be reused by defining it once and then use it many times.
+
 ## J
 
 **jump**  
