@@ -24,6 +24,9 @@ We do not always want all statements in the code to be executed sequentially lin
 
 ## P
 
+**parentheses**  
+A pair of markings in C source code that looks like: `()`. Commonly used with other code placed inside the pair. Interpretation of the parentheses depending on context. One usage being to indicate a function call.
+
 **print**  
 When a C program outputs text, commonly in a terminal window.
 
